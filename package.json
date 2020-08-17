@@ -26,20 +26,20 @@
   "homepage": "https://github.com/imajin-land/todo-node#readme",
   "dependencies": {
     "async": "^2.6.1",
-    "body-parser": "^1.18.3",
-    "compression": "^1.7.3",
-    "cors": "^2.8.4",
-    "dotenv": "^6.0.0",
-    "express": "^4.16.4",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
-    "express-useragent": "^1.0.12",
-    "frameguard": "^3.0.0",
-    "moment": "^2.24.0",
-    "nocache": "^2.0.0",
+    "express-useragent": "^1.0.13",
+    "frameguard": "^3.1.0",
+    "moment": "^2.26.0",
+    "nocache": "^2.1.0",
     "pg": "^7.8.0",
     "pg-hstore": "^2.3.2",
     "request-ip": "^2.1.3",
-    "require-dir": "^1.0.0",
+    "require-dir": "^1.2.0",
     "sequelize": "^5.22.3"
   },
   "devDependencies": {
@@ -49,7 +49,7 @@
     "eslint-plugin-babel": "^5.3.1",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-json": "^1.4.0",
-    "nodemon": "^1.19.4",
+    "nodemon": "^2.0.4",
     "sequelize-cli": "^5.5.1"
   }
 }
