@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imajin-land/todo-node.git"
+    "url": "git+https://github.com/majin-land/todo-node.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imajin-land/todo-node/issues"
+    "url": "https://github.com/majin-land/todo-node/issues"
   },
-  "homepage": "https://github.com/imajin-land/todo-node#readme",
+  "homepage": "https://github.com/majin-land/todo-node#readme",
   "dependencies": {
     "async": "^2.6.1",
     "body-parser": "^1.19.0",
